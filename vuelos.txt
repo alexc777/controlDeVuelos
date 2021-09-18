@@ -1,0 +1,7 @@
+19/08/2021,19/08/2021,1,Honduras,1,3190,Avianca,Buena,Osc785,100,plus 2018,Comercial
+19/08/2021,19/08/2021,1,Panama,1,3195,American,Excelente,Polo,100,plus 2018,Carga
+19/08/2021,19/08/2021,1,Costa Rica,1,3180,Volaris,Buena,SB2019,100,plus 2018,Comercial
+19/08/2021,19/08/2021,1,Cuba,1,3290,Avianca,Mala,Osc785,100,plus 2019,Carga
+19/08/2021,19/08/2021,1,Chile,1,3190,Volaris,Buena,Osc785,100,Ultra 2018,Carga
+19/08/2021,19/08/2021,1,Venezuela,2,3200,American,Mala,Osc785,100,Jet,Militar
+19/08/2021,19/08/2021,1,Guastatoya,2,3190,American,Excelente,Osc785,100,MaxC,Jumbo
